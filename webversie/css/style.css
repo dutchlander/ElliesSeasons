@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.timeclock{
+  position: absolute;
+  text-align: center;
+  margin: auto;
+  color: white;
+  margin-left: 48%;
+  margin-top: 23.5%;
+}
+
